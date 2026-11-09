@@ -1,3 +1,5 @@
+// Hunter Goupil, November 8, 2026, This program calculates a student's exam average and determines their letter grade.
+
 import java.util.Scanner;
 
 public class GradeTools {
